@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+        "spec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:javascript-info/tasks-js-dom-interfaces.git#master",
+          "sshUrl": "git+ssh://git@github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+          "httpsUrl": "git+https://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+          "gitUrl": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+          "shortcut": "github:javascript-info/tasks-js-dom-interfaces#master",
+          "directUrl": "https://raw.githubusercontent.com/javascript-info/tasks-js-dom-interfaces/master/package.json"
+        }
+      },
+      "/Users/burlak/projects/javascript-nodejs/handlers/automation/controller"
+    ]
+  ],
+  "_from": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+  "_id": "tasks-js-dom-interfaces@1.0.0",
+  "_inCache": true,
+  "_location": "/tasks-js-dom-interfaces",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+    "spec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:javascript-info/tasks-js-dom-interfaces.git#master",
+      "sshUrl": "git+ssh://git@github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+      "httpsUrl": "git+https://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+      "gitUrl": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+      "shortcut": "github:javascript-info/tasks-js-dom-interfaces#master",
+      "directUrl": "https://raw.githubusercontent.com/javascript-info/tasks-js-dom-interfaces/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#2c3d6f5224ae155c33ebdf10f8b218dc4c005922",
+  "_shasum": "c3f3b3d1f280016f75d47c1b9c3dc443d3e1e39f",
+  "_shrinkwrap": null,
+  "_spec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+  "_where": "/Users/burlak/projects/javascript-nodejs/handlers/automation/controller",
+  "author": {
+    "name": "Artsiom Mezin"
+  },
+  "bugs": {
+    "url": "https://github.com/javascript-info/tasks-js-dom-interfaces/issues"
+  },
+  "dependencies": {},
+  "description": "Repo with tasks for JS/DOM/Interfaces",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-json-reporter": "^1.2.1",
+    "karma-phantomjs-launcher": "^1.0.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "gitHead": "2c3d6f5224ae155c33ebdf10f8b218dc4c005922",
+  "homepage": "https://github.com/javascript-info/tasks-js-dom-interfaces#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "tasks-js-dom-interfaces",
+  "optionalDependencies": {},
+  "readme": "# tasks-js-dom-interfaces\nRepo with tasks for JS/DOM/Interfaces\n\nChanges for CI\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascript-info/tasks-js-dom-interfaces.git"
+  },
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "version": "1.0.0"
+}
